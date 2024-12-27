@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where running `expo prebuild` resulted in an error mentioning that the `node_modules` directory was missing.  This occurred even after I had successfully installed all dependencies using `npm install` or `yarn install`. The project was a React Native project using Expo managed workflow. 
